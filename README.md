@@ -16,7 +16,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kritsadagorn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.kritx_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hyperz3d) 
 
 ## Rainbow Equalizer
-![Preview](https://itstommi.vercel.app/api?rainbow=true)
+![Preview]<div align="center" (https://itstommi.vercel.app/api?rainbow=true)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
