@@ -15,6 +15,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kritsadagorn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.kritx_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hyperz3d) 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kritsadagorn)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31djcrn5hx44ph2jfk4j7h244ygu&count=1)
 ---
 [![](https://visitcount.itsvg.in/api?id=Kritsadagorn&icon=5&color=11)](https://visitcount.itsvg.in)
