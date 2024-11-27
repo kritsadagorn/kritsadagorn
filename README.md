@@ -2,7 +2,7 @@
 📖I'm Studying In RMUTL<br>🎮I'm Really like to play Valorant :D
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kritsadagorn</h1>
+<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kritsadagorn</h1>
 <h4 align="center">A Student Studying in RMUTL University</h4>
 </div>
 
