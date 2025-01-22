@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jai-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="jai-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kritsadagorn&label=Profile%20views&color=0e75b6&style=flat"
+    alt="kritsadagorn" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/jai-pw/jai-pw/blob/main/animation_500_kxa883sd.gif" alt="jai-pw" /></p>
+<p><img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages currently is React
@@ -118,22 +118,22 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="jai-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kritsadagorn&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="kritsadagorn" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jai-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="jai-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritsadagorn&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="kritsadagorn" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jai-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritsadagorn&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kritsadagorn" /></p>
       
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 
-[jai-pw](https://github.com/kritsadagorn)
+[kritsadagorn](https://github.com/kritsadagorn)
