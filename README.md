@@ -1,73 +1,139 @@
+<h1 align="center">Hi 👋, I'm Kritsadagorn Punnapanich (JAI)</h1>
+<h3 align="center">Student at RMUTL Chiang Mai, Thailand🌟.</h3>
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jai-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="jai-pw" /> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/jai-pw/jai-pw/blob/main/animation_500_kxa883sd.gif" alt="jai-pw" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages currently is React
+
+- 📫 How to reach me **catsamotyba@gmail.com**
+
+- ⚡ Other Hobbies :- Music is the best way to makes me chill.🎵
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://facebook.com/kritsadagorn" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="jai pithen wala" height="30" width="40" /></a>
+  <a href="https://instagram.com/k.kritx_" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.jai._" height="30" width="40" /></a>
+<!--   <a href="https://www.hackerrank.com/jaipithewan" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="jaipithewan" height="30" width="40" /></a>
+ <a href="https://twitter.com/jai_pithenwala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="jaipithewan" height="30" width="40" /></a> -->
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<!--   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> 
+  </a>  -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> 
+  </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> 
+  </a> 
+<!--   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" />  -->
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> 
+  </a> 
+<!--   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+  </a>  -->
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> 
+  </a>  -->
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<!--     <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+    rel="noreferrer">  -->
+        <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> 
+<!--       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a>  -->
+      </p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jai-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="jai-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jai-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="jai-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jai-pw" /></p>
+      
 <div align="center">
-  <img height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.facebook.com/kritsadagorn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@hyperz3d760" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/k.kritx_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/hyperz3d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="ingbae_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kritsadagorn.kritsadagorn&left_color=aqua&right_color=aqua"  />
-</div>
-
-###
-
-<h1 align="center">Hi, I'm Kritsadagorn You can call me Jai 👾</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m study in Computer Engineering at Rajamangkala University Of Technology Lanna</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kritsadagorn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+[jai-pw](https://github.com/kritsadagorn)
