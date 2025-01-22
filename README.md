@@ -13,7 +13,7 @@
   <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
 </p>
 
-- 🌱 I’m currently learning **Web Development** and other programming languages like **React**.  
+- 🌱 I’m currently learning **Web Development** and some of Frame such as **React**.  
 - 📫 How to reach me: **catsamotyba@gmail.com**  
 - ⚡ **Other Hobbies**: Music is the best way to make me chill. 🎵  
 
