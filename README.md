@@ -127,13 +127,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritsadagorn&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="kritsadagorn" /></p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritsadagorn&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kritsadagorn" /></p>
-      
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 
 [kritsadagorn](https://github.com/kritsadagorn)
