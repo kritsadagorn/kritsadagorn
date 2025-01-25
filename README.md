@@ -88,6 +88,3 @@ frameworks, and even learning additional languages like Korean 고마워요 \(�
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/kritsadagorn" target="_blank">Visit my GitHub Profile</a>
-</p>
