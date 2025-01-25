@@ -13,10 +13,10 @@
   <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
 </p>
 
-```json
-- I’m currently learning **Web Development** and some of Framework such as **React**.  
-- How to reach me: **catsamotyba@gmail.com** or **Facebook**
-- **Other Hobbies**: Music is the best way to make me chill. 🎵  
+```
+I’m currently learning Web Development and some of Framework such as React
+How to reach me: catsamotyba@gmail.com or Facebook
+Other Hobbies:  Music is the best way to make me chill
 ```
 
 <br>
