@@ -1,5 +1,5 @@
-<h1 align="center">Hi! , I'm Kritsadagorn Punnapanich // JAI</h1>
-<h3 align="center">Student at RMUTL Chiang Mai, Thailand</h3>
+# Hi! , I'm Kritsadagorn Punnapanich // JAI 
+## Student at RMUTL Chiang Mai, Thailand
 
 <br>
 
@@ -22,23 +22,23 @@
 </p>
 
 ```
-### 👨‍💻 I'm currently learning **Web Development** and exploring frameworks such as **React**.
+# 👨‍💻 I'm currently learning Web Development and exploring frameworks such as **React**.
 
-### 📧 How to reach me:  
-- Email: [catsamotyba@gmail.com](mailto:catsamotyba@gmail.com)  
-- Facebook: [My Profile](#)
+# 📧 How to reach me:  
+- Email: catsamotyba@gmail.com
+- Facebook: Kritsadagorn Punnapanich
 
-### 🎶 **Other Hobbies**: Music is the best way to make me chill. 🎧
+# 🎶 Other Hobbies: Music is the best way to make me chill. 🎧
 ```
 
 ```
 I am a passionate and dedicated individual who loves exploring new topics and tackling challenges head-on.  
 
 🌍 My English proficiency stems from years of playing online games with people from
-different countries and studying in an **English Program** during my childhood.  
+different countries and studying in an English Program during my childhood.  
 
-💻 Recently, I’ve been expanding my skill set by diving deeper into **programming languages**,
-**frameworks**, and even learning additional languages like **Korean** 고마워요 \(￣︶￣*\)).  
+💻 Recently, I’ve been expanding my skill set by diving deeper into programming languages,
+frameworks, and even learning additional languages like Korean 고마워요 \(￣︶￣*\)).  
 
 📚 I thrive on continuous learning and am always eager to enhance my abilities.  
 ```
