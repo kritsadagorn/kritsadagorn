@@ -3,7 +3,7 @@
 </p>
 
 # Hi! , I'm Kritsadagorn Punnapanich // JAI 
-  <img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%,Thailand-8A2BE2"/>
+  <img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/>
 
 <h3 align="left">Contact :</h3>
 <p align="left">
