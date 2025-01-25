@@ -7,30 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=kritsadagorn&label=Profile%20views&color=0e75b6&style=flat" alt="kritsadagorn" />
 </p>
 
-<br>
-
-<p align="center">
-  <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
-</p>
-
-```
-I’m currently learning Web Development and some of Framework such as React
-How to reach me: catsamotyba@gmail.com or Facebook
-Other Hobbies:  Music is the best way to make me chill
-```
-
-```
-I am a passionate and dedicated individual who loves exploring new topics and tackling challenges head-on.
-
-My English proficiency stems from years of playing online games with people from different countries and studying in an English Program during my childhood. 
-
-Recently, I’ve been expanding my skill set by diving deeper into programming languages, frameworks, and even learning additional languages like Korean.
-I thrive on continuous learning and am always eager to enhance my abilities.
-
-```
-
-<br>
-
 <h3 align="left">Contact :</h3>
 <p align="left">
   <a href="https://facebook.com/kritsadagorn" target="_blank">
@@ -40,6 +16,33 @@ I thrive on continuous learning and am always eager to enhance my abilities.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.kritx_" height="30" width="40" />
   </a>
 </p>
+
+<p align="center">
+  <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
+</p>
+
+```
+👨‍💻 I’m currently learning **Web Development** and exploring frameworks such as **React**.
+
+📧 How to reach me:  
+- Email: [catsamotyba@gmail.com](mailto:catsamotyba@gmail.com)  
+- Facebook: [My Profile](#)
+
+🎶 **Other Hobbies**: Music is the best way to make me chill. 🎧
+
+```
+
+```
+
+I am a passionate and dedicated individual who loves exploring new topics and tackling challenges head-on.  
+
+🌍 My English proficiency stems from years of playing online games with people from different countries and studying in an **English Program** during my childhood.  
+
+💻 Recently, I’ve been expanding my skill set by diving deeper into **programming languages**, **frameworks**, and even learning additional languages like **Korean**.  
+
+📚 I thrive on continuous learning and am always eager to enhance my abilities.  
+```
+
 
 <br>
 
