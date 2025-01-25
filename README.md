@@ -1,12 +1,12 @@
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=kritsadagorn&label=Profile%20views&color=0e75b6&style=flat" alt="kritsadagorn" />
 </p>
 
-# Hi! , I'm Kritsadagorn Punnapanich // JAI 
+<p align center>
+  <h2> Hi! , I'm Kritsadagorn Punnapanich . Jai </h2>
   <img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/>
-  <p>
-    <img src="https://img.shields.io/badge/I%20was%20nott%20good%20at%20everything%20since%20birth-8A2BE2"/>
-  </p>
+  <img src="https://img.shields.io/badge/I%20was%20not%20good%20at%20everything%20since%20birth-8A2BE2"/>
+</p>
 
 <h3 align="left">Contact :</h3>
 <p align="left">
