@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kritsadagorn Punnapanich (JAI)</h1>
-<h3 align="center">Student at RMUTL Chiang Mai, Thailand 🌟</h3>
+<h1 align="center">Hi! , I'm Kritsadagorn Punnapanich (JAI)</h1>
+<h3 align="center">Student at RMUTL Chiang Mai, Thailand</h3>
 
 <br>
 
@@ -13,9 +13,11 @@
   <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
 </p>
 
-- 🌱 I’m currently learning **Web Development** and some of Frame such as **React**.  
-- 📫 How to reach me: **catsamotyba@gmail.com**  
-- ⚡ **Other Hobbies**: Music is the best way to make me chill. 🎵  
+```json
+- I’m currently learning **Web Development** and some of Framework such as **React**.  
+- How to reach me: **catsamotyba@gmail.com** or **Facebook**
+- **Other Hobbies**: Music is the best way to make me chill. 🎵  
+```
 
 <br>
 
@@ -53,9 +55,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
