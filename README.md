@@ -19,6 +19,16 @@ How to reach me: catsamotyba@gmail.com or Facebook
 Other Hobbies:  Music is the best way to make me chill
 ```
 
+```
+I am a passionate and dedicated individual who loves exploring new topics and tackling challenges head-on.
+
+My English proficiency stems from years of playing online games with people from different countries and studying in an English Program during my childhood. 
+
+Recently, I’ve been expanding my skill set by diving deeper into programming languages, frameworks, and even learning additional languages like Korean.
+I thrive on continuous learning and am always eager to enhance my abilities.
+
+```
+
 <br>
 
 <h3 align="left">Contact :</h3>
@@ -66,11 +76,11 @@ Other Hobbies:  Music is the best way to make me chill
 
 <h3 align="left">Other Tools :</h3>
 <p align="left">
+  <a href="https://www.adobe.com/th_th/products/premiere.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40" />
+  </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/th_th/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40" />
   </a>
   <a href="https://www.canva.com/th_th/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
