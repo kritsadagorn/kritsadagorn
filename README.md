@@ -1,11 +1,8 @@
-# Hi! , I'm Kritsadagorn Punnapanich // JAI 
-## Student at RMUTL Chiang Mai, Thailand
-
-<br>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kritsadagorn&label=Profile%20views&color=0e75b6&style=flat" alt="kritsadagorn" />
 </p>
+# Hi! , I'm Kritsadagorn Punnapanich // JAI 
+## Student at RMUTL Chiang Mai, Thailand
 
 <h3 align="left">Contact :</h3>
 <p align="left">
