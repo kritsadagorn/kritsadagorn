@@ -7,16 +7,6 @@
   <span><img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/>  <img src="https://img.shields.io/badge/I%20was%20not%20good%20at%20everything%20since%20birth-8A2BE2"/></span>
 </p>
 
-<h3 align="left">Contact :</h3>
-<p align="left">
-  <a href="https://facebook.com/kritsadagorn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kritsadagorn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/k.kritx_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.kritx_" height="30" width="40" />
-  </a>
-</p>
-
 <p align="center">
   <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
 </p>
