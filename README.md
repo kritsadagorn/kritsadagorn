@@ -1,4 +1,4 @@
-<h1 align="center">Hi! , I'm Kritsadagorn Punnapanich (JAI)</h1>
+<h1 align="center">Hi! , I'm Kritsadagorn Punnapanich // JAI</h1>
 <h3 align="center">Student at RMUTL Chiang Mai, Thailand</h3>
 
 <br>
@@ -22,29 +22,26 @@
 </p>
 
 ```
-👨‍💻 I’m currently learning **Web Development** and exploring frameworks such as **React**.
+### 👨‍💻 I'm currently learning **Web Development** and exploring frameworks such as **React**.
 
-📧 How to reach me:  
+### 📧 How to reach me:  
 - Email: [catsamotyba@gmail.com](mailto:catsamotyba@gmail.com)  
 - Facebook: [My Profile](#)
 
-🎶 **Other Hobbies**: Music is the best way to make me chill. 🎧
-
+### 🎶 **Other Hobbies**: Music is the best way to make me chill. 🎧
 ```
 
 ```
-
 I am a passionate and dedicated individual who loves exploring new topics and tackling challenges head-on.  
 
-🌍 My English proficiency stems from years of playing online games with people from different countries and studying in an **English Program** during my childhood.  
+🌍 My English proficiency stems from years of playing online games with people from
+different countries and studying in an **English Program** during my childhood.  
 
-💻 Recently, I’ve been expanding my skill set by diving deeper into **programming languages**, **frameworks**, and even learning additional languages like **Korean**.  
+💻 Recently, I’ve been expanding my skill set by diving deeper into **programming languages**,
+**frameworks**, and even learning additional languages like **Korean** 고마워요 \(￣︶￣*\)).  
 
 📚 I thrive on continuous learning and am always eager to enhance my abilities.  
 ```
-
-
-<br>
 
 <h3 align="left">Programming Language & Framework :</h3>
 <p align="left">
@@ -66,16 +63,12 @@ I am a passionate and dedicated individual who loves exploring new topics and ta
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Other Tools :</h3>
 <p align="left">
@@ -90,7 +83,7 @@ I am a passionate and dedicated individual who loves exploring new topics and ta
   </a>
 </p>
 
-<br>
+---
 
 <h3>Statistical Data:</h3>
 <p align="center">
