@@ -4,8 +4,8 @@
 
 <p align="center">
   <h2> Hi! , I'm Kritsadagorn Punnapanich . Jai </h2>
-  [Portfolio](https://kritport.vercel.app)
   <span><img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/>  <img src="https://img.shields.io/badge/I%20was%20not%20good%20at%20everything%20since%20birth-8A2BE2"/></span>
+  <a href="https://kritport.vercel.app">PORTFOLIO</a>
 </p>
 
 <p align="center">
