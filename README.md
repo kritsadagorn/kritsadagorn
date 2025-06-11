@@ -1,5 +1,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kritsadagorn&label=Profile%20views&color=0e75b6&style=flat" alt="kritsadagorn" />
+  [Portfolio]("https://kritport.vercel.app")
 </p>
 
 <p align="center">
@@ -31,7 +32,6 @@ different countries and studying in an English Program during my childhood.
 frameworks, and even learning additional languages like Korean 고마워요 \(￣︶￣*\)).  
 
 📚 I thrive on continuous learning and am always eager to enhance my abilities.
-[Portfolio]("https://kritport.vercel.app")
 ```
 
 <h3 align="left">Programming Language & Framework :</h3>
