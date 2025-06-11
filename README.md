@@ -30,7 +30,8 @@ different countries and studying in an English Program during my childhood.
 💻 Recently, I’ve been expanding my skill set by diving deeper into programming languages,
 frameworks, and even learning additional languages like Korean 고마워요 \(￣︶￣*\)).  
 
-📚 I thrive on continuous learning and am always eager to enhance my abilities.  
+📚 I thrive on continuous learning and am always eager to enhance my abilities.
+[Portfolio]("https://kritport.vercel.app")
 ```
 
 <h3 align="left">Programming Language & Framework :</h3>
