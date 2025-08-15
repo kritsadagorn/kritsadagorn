@@ -34,7 +34,7 @@ frameworks, and even learning additional languages like Korean 고마워요 \(�
 📚 I thrive on continuous learning and am always eager to enhance my abilities.
 ```
 
-<h3 align="left">Programming Language & Framework :</h3>
+<h3 align="left">Tools - Ordered from Skilled to Basic</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
