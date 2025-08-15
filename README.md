@@ -16,7 +16,7 @@
 # 👨‍💻 I'm currently learning Web Development and exploring frameworks such as **React**.
 
 # 📧 How to reach me:  
-- Email: catsamotyba@gmail.com
+- Email: kritdevo3@gmail.com
 - Facebook: Kritsadagorn Punnapanich
 
 # 🎶 Other Hobbies: Music is the best way to make me chill. 🎧
