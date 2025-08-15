@@ -93,6 +93,9 @@ frameworks, and even learning additional languages like Korean 고마워요 \(�
   <a href="https://www.canva.com/th_th/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
   </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  </a>
 </p>
 
 ---
