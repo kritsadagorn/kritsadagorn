@@ -3,14 +3,20 @@
 </p>
 
 <p align="center">
-  ![Logo](https://img5.pic.in.th/file/secure-sv1/40c65772-5237-4829-a593-ea16e8ef13eb-1.gif)
-  <h2> Hi! , I'm Kritsadagorn Punnapanich . Jai </h2>
-  <span><img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/> 
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kritport.vercel.app/)
+  <img src="https://img5.pic.in.th/file/secure-sv1/40c65772-5237-4829-a593-ea16e8ef13eb-1.gif" alt="Logo" />
+</p>
+
+<h2 align="center"> Hi! 👋, I'm Kritsadagorn Punnapanich (Jai) </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/>
+  <a href="https://kritport.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-  <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn" />
+  <img align="right" src="https://github.com/kritsadagorn/kritsadagorn/blob/main/animation_500_kxa883sd.gif" alt="kritsadagorn animation" />
 </p>
 
 ```
