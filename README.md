@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img5.pic.in.th/file/secure-sv1/40c65772-5237-4829-a593-ea16e8ef13eb-1.gif" alt="Logo" width="400"/>
+  <img src="https://img5.pic.in.th/file/secure-sv1/40c65772-5237-4829-a593-ea16e8ef13eb-1.gif" alt="Logo" width="300"/>
 </p>
 
 <h2 align="center"> Hi! 👋, I'm Kritsadagorn Punnapanich (Jai) </h2>
