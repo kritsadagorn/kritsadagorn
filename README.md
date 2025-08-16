@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
+  ![Logo](https://img5.pic.in.th/file/secure-sv1/40c65772-5237-4829-a593-ea16e8ef13eb-1.gif)
   <h2> Hi! , I'm Kritsadagorn Punnapanich . Jai </h2>
   <span><img src="https://img.shields.io/badge/Student%20at%20RMUTL%20Chiang%20Mai%20Thailand-8A2BE2"/> 
-  <div><a href="https://kritport.vercel.app">PORTFOLIO</a></div>
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kritport.vercel.app/)
 </p>
 
 <p align="center">
